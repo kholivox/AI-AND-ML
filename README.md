@@ -2,7 +2,7 @@
 
 # Neo4j and LLaMA2 Integration
 
-![Neo4j Logo](https://raw.githubusercontent.com/docker-library/docs/56823e63d5b6dd7ddbb9d5d3c4a8947778055d8e/neo4j/logo.png)
+![Neo4j Logo]([https://raw.githubusercontent.com/docker-library/docs/56823e63d5b6dd7ddbb9d5d3c4a8947778055d8e/neo4j/logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fneo4j.com%2Fblog%2Fgraph-databases-drupal-neo4j-module-rules-integration%2F&psig=AOvVaw2ncC5gACNqfWmRQytlwPGL&ust=1716786087546000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKjm3vXEqoYDFQAAAAAdAAAAABAE))
 
 This repository demonstrates how to integrate Neo4j, a powerful graph database, with LLaMA2, a machine learning model for natural language processing tasks.
 
